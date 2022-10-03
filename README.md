@@ -8,14 +8,15 @@ We are predicting the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 
 ## Model Used
 We have used
 
-Bayesian Ridge
-Kernal Ridge
-Gradient Boosting
+Bayesian Ridge,
+Kernal Ridge,
+Gradient Boosting 
 for solving this problem.
-Results
+
+## Results
 The RMSE value of models are:-
 
-Bayesian Ridge --> 77.04498657347912
-Kernal Ridge --> 106.81986414973701
+Bayesian Ridge --> 77.04498657347912    
+Kernal Ridge --> 106.81986414973701    
 Gradient Boosting --> 38.20427011859272
 ## RMSE value of best model is 38.204 by Gradient Boosting
